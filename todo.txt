@@ -1,0 +1,14 @@
+Bugs 
+1. Add "Remote control or button" feature to shutters with motor
+2. Add "Cover size choice"
+3. Add light open to print() function for roller mosquito net
+4. Add count of lamels for each type
+Purchase part
+Purchase class which has:
+			- vector of Products
+			-Date
+			-Price(which will be calculated by priceCalculator part)
+			-String client
+			- Purchase ID	!!
+
+
